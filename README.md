@@ -14,9 +14,9 @@ The Growth Mindset is about continuous growth and how to overcome roadblocks in 
 _How to Keep Myself In a Growth Mindset?_
 
 1. Student Mindset
-    - Remind myself that there is not ceiling on the 
-2. Learn from Critism 
-    - All critisim is constructive that I can learn and build from
+    - Remind myself that there is no time-limit on how long it takes me to learn and understand concepts 
+2. Learn from Criticism 
+    - All criticism is constructive that I can learn and build from
 3. Peers Are a Knowledgebase
     - What you cannot google can be learned from those around you
 
