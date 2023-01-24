@@ -61,3 +61,5 @@ Here I have created notes of *my version* of understanding of the reading materi
 #### [Class 201-14 Reading Notes](/class201/class201-14.md)
 
 #### [Class 201-15 Reading Notes](/class201/class201-15.md)
+
+[Additional Thoughts and Observations](/thoughts.md)
