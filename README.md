@@ -10,7 +10,7 @@ Here I have created notes of *my version* of understanding of the reading materi
 
 ***
 
-### Code 102
+### Code 102 Reading Notes
 
 #### [Class 102-01 Reading Notes](/class102/class102-01.md)
 
@@ -30,7 +30,7 @@ Here I have created notes of *my version* of understanding of the reading materi
 
 ***
 
-### Code 201
+### Code 201 Reading Notes
 
 #### [Class 201-01 Reading Notes](/class201/class201-01.md)
 
@@ -61,24 +61,3 @@ Here I have created notes of *my version* of understanding of the reading materi
 #### [Class 201-14 Reading Notes](/class201/class201-14.md)
 
 #### [Class 201-15 Reading Notes](/class201/class201-15.md)
-
-#### Growth Mindset 
-
-_What Does Growth Mindset Mean?_
-
-The Growth Mindset is about continuous growth and how to overcome roadblocks in learning.  It gives the idea that learning anything is possible as long as you can believe that with tenacity and persistence, you can achieve your goals.
-
-_How to Keep Myself In a Growth Mindset?_
-
-1. Student Mindset
-    - Remind myself that there is no time-limit on how long it takes me to learn and understand concepts 
-2. Learn from Criticism 
-    - All criticism is constructive that I can learn and build from
-3. Peers Are a Knowledgebase
-    - What you cannot google can be learned from those around you
-
-***
-
-Please check out my [GitHub Page](https://github.com/dlewburg)!
-
-> __Any__ Feedback (good or bad) would greatly be appreciated!
