@@ -1,5 +1,9 @@
-# reading-notes
-Code Fellows Notes 
+# Reading-Notes
+
+Hello! My name is Dasha and ***WELCOME*** to my *GitHub* Readiing Notes Page.  I'm new to the world of coding and have a lot to learn before I can master anything 
+
+
+## Code Fellows Notes 
 
 Hello! My name is Dasha and ***WELCOME*** to my *GitHub* Page.  I'm new to the world of coding and have a lot to learn before I can master anything 
 
@@ -25,7 +29,3 @@ _How to Keep Myself In a Growth Mindset?_
 Please check out my [GitHub Page](https://github.com/dlewburg)!
 
 > __Any__ Feedback (good or bad) would greatly be appreciated!
-
-
-
-
