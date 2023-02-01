@@ -1,6 +1,6 @@
 # Reading-Notes
 
-Hello! My name is Dasha and ***WELCOME*** to my *GitHub* Readiing Notes Page.  I'm new to the world of coding and have a lot to learn before I can master anything!
+Hello! My name is Dasha and ***WELCOME*** to my *GitHub* Reading Notes Page.  I'm new to the world of coding and have a lot to learn before I can master anything!
 
 Here I have created notes of *my version* of understanding of the reading material.  I hope any info here can be helpful to another person. ***Enjoy***
 
@@ -10,7 +10,7 @@ Here I have created notes of *my version* of understanding of the reading materi
 
 ***
 
-### Code 102 Reading Notes
+### Code Intro to Software Development
 
 #### [Class 102-01 Reading Notes](/class102/class102-01.md)
 
@@ -30,7 +30,7 @@ Here I have created notes of *my version* of understanding of the reading materi
 
 ***
 
-### Code 201 Reading Notes
+### Code 201 Foundations of Software Development
 
 #### [Class 201-01 Reading Notes](/class201/class201-01.md)
 
@@ -61,5 +61,13 @@ Here I have created notes of *my version* of understanding of the reading materi
 #### [Class 201-14 Reading Notes](/class201/class201-14.md)
 
 #### [Class 201-15 Reading Notes](/class201/class201-15.md)
+
+***
+
+### Class 301 Intermediate Software Development
+
+***
+
+### Class 401 Advance Software Development
 
 [Additional Thoughts and Observations](/thoughts.md)
