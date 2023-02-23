@@ -66,6 +66,36 @@ Here I have created notes of *my version* of understanding of the reading materi
 
 ### Class 301 Intermediate Software Development
 
+#### [Class 301-01 Reading Notes](/class301/class301-01.md)
+
+#### [Class 301-02 Reading Notes](/class301/class301-02.md)
+
+#### [Class 301-03 Reading Notes](/class301/class301-03.md)
+
+#### [Class 301-04 Reading Notes](/class301/class301-04.md)
+
+#### [Class 301-05 Reading Notes](/class301/class301-05.md)
+
+#### [Class 301-06 Reading Notes](/class301/class301-06.md)
+
+#### [Class 301-07 Reading Notes](/class301/class301-07.md)
+
+#### [Class 301-08 Reading Notes](/class301/class301-08.md)
+
+#### [Class 301-09 Reading Notes](/class301/class301-09.md)
+
+#### [Class 301-10 Reading Notes](/class301/class301-10.md)
+
+#### [Class 301-11 Reading Notes](/class301/class301-11.md)
+
+#### [Class 301-12 Reading Notes](/class301/class301-12.md)
+
+#### [Class 301-13 Reading Notes](/class301/class301-13.md)
+
+#### [Class 301-14 Reading Notes](/class301/class301-14.md)
+
+#### [Class 301-15 Reading Notes](/class301/class301-15.md)
+
 ***
 
 ### Class 401 Advance Software Development
