@@ -193,6 +193,113 @@ Rules for using UNION or UNION ALL:
 2. Columns retrieved must in the same order in each select statement.
 3. Columns retrieved must be similar data types
 
+### Inserting Data
+
+>INSERT INTO mytable
+>(column, another_column, …)
+>VALUES (value_or_expr, another_value_or_expr, …),
+> (value_or_expr_2, another_value_or_expr_2, …),
+> …;
+> INSERT INTO movies VALUES (4, Toy Story 4, Director Name, table value, length);
+
+### Updating Data
+
+>UPDATE mytable
+SET column = value_or_expr,  
+    other_column = another_value_or_expr,  
+    …
+WHERE condition;  
+> NOTE: Most people working with SQL will make mistakes updating data at one point or another. Whether it's updating the wrong set of rows in a production database, or accidentally leaving out the WHERE clause (which causes the update to apply to all rows), you need to be extra careful when constructing UPDATE statements.
+> One helpful tip is to always write the constraint first and test it in a SELECT query to make sure you are updating the right rows, and only then writing the column/value pairs to update.
+
+### Deleting Data
+
+> Like the UPDATE statement from last lesson, it's recommended that you run the constraint in a SELECT query first to ensure that you are removing the right rows. Without a proper backup or test database, it is downright easy to irrevocably remove data, so always read your DELETE statements twice and execute once.
+> If you decide to leave out the WHERE constraint, then all rows are removed, which is a quick and easy way to clear out a table completely (if intentional).
+> DELETE FROM mytable
+WHERE condition;
+
+### Creating a Table
+
+> The structure of the new table is defined by its table schema, which defines a series of columns. Each column has a name, the type of data allowed in that column, an optional table constraint on values being inserted, and an optional default value.
+
+If there already exists a table with the same name, the SQL implementation will usually throw an error, so to suppress the error and skip creating a table if one exists
+
+CREATE TABLE mytable (
+    column *DataType* *TableConstraint* DEFAULT default_value,
+    another_column *DataType* *TableConstraint* DEFAULT default_value,
+    …
+);
+
+NOTE: default value was not used in the example
+
+Data Types:
+
+* INTEGER, BOOLEAN
+* FLOAT, DOUBLE, REAL
+* CHARACTER(num_char), VARCHAR(num_char), TEXT
+* DATE, DATETIME
+* BLOB
+
+Table Constraints:
+
+* PRIMARY KEY
+* AUTOINCREMENT
+* UNIQUE
+* NOT NULL
+* CHECK (expression)
+* FOREIGN KEY
+
+### Altering Tables
+
+SQL provides a way for you to update your corresponding tables and database schemas by using the ALTER TABLE statement to add, remove, or modify columns and table constraints.
+
+Add Columns:
+
+        ALTER TABLE mytable
+        ADD column DataType OptionalTableConstraint 
+            DEFAULT default_value;
+
+Remove Columns:
+
+        ALTER TABLE mytable
+        DROP column_to_be_deleted;
+
+Renaming Table:
+
+        ALTER TABLE mytable
+        RENAME TO new_table_name;
+
+### Dropping Tables
+
+> you may want to remove an entire table including all of its data and metadata, and to do so, you can use the DROP TABLE statement, which differs from the DELETE statement in that it also removes the table schema from the database entirely.
+> Like the CREATE TABLE statement, the database may throw an error if the specified table does not exist, and to suppress that error, you can use the IF EXISTS clause.
+> In addition, if you have another table that is dependent on columns in table you are removing (for example, with a FOREIGN KEY dependency) then you will have to either update all dependent tables first to remove the dependent rows or to remove those tables entirely.
+
+        DROP TABLE mytable;
+
 ## SQL PRACTICE SCREENSHOTS
 
-![]
+![Exercise 1](./img/SQL-Lesson-1.png)
+
+![Exercise 2](./img/SQL-Lesson-2.png)
+
+![Exercise 3](./img/SQL-Lesson-3.png)
+
+![Exercise 4](./img/SQL-Lesson-4.png)
+
+![Exercise 5](./img/SQL-Lesson-5.png)
+
+![Exercise 6](./img/SQL-Lesson-6.png)
+
+![Exercise 13](./img/SQL-Lesson-13.png)
+
+![Exercise 14](./img/SQL-Lesson-14.png)
+
+![Exercise 15](./img/SQL-Lesson-15.png)
+
+![Exercise 16](./img/SQL-Lesson-16.png)
+
+![Exercise 17](./img/SQL-Lesson-17.png)
+
+![Exercise 18](./img/SQL-Lesson-18.png)
