@@ -292,14 +292,14 @@ Renaming Table:
 
 ![Exercise 6](./img/prework-sql/SQL-Lesson-6.png)
 
-![Exercise 13]((./img/prework-sql/SQL-Lesson-13.png)
+![Exercise 13](./img/prework-sql/SQL-Lesson-13.png)
 
-![Exercise 14]((./img/prework-sql/SQL-Lesson-14.png)
+![Exercise 14](./img/prework-sql/SQL-Lesson-14.png)
 
-![Exercise 15]((./img/prework-sql/SQL-Lesson-15.png)
+![Exercise 15](./img/prework-sql/SQL-Lesson-15.png)
 
-![Exercise 16]((./img/prework-sql/SQL-Lesson-16.png)
+![Exercise 16](./img/prework-sql/SQL-Lesson-16.png)
 
-![Exercise 17]((./img/prework-sql/SQL-Lesson-17.png)
+![Exercise 17](./img/prework-sql/SQL-Lesson-17.png)
 
-![Exercise 18]((./img/prework-sql/SQL-Lesson-18.png)
+![Exercise 18](./img/prework-sql/SQL-Lesson-18.png)
