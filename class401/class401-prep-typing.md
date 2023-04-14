@@ -1,4 +1,4 @@
-# Typing Practice Java results
+# Typing Practice Java Results
 
 ![Lesson 1](./img/prework-type/401-Type-Practice-Lesson-1.png)
 

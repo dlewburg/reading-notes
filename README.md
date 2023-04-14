@@ -100,9 +100,9 @@ Here I have created notes of *my version* of understanding of the reading materi
 
 ### Class 401 Advance Software Development
 
-#### [PREP SQL](/class401/class401-prep-SQL)
+#### [PREP SQL](/class401/class401-prep-SQL.md)
 
-#### [PREP Typing Practice](/class401/class401-prep-typing)
+#### [PREP Typing Practice](/class401/class401-prep-typing.md)
 
 #### [Class 401-01 Reading Notes](/class401/class401-01.md)
 
