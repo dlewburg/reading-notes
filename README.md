@@ -110,6 +110,8 @@ Here I have created notes of *my version* of understanding of the reading materi
 
 #### [PREP Engineering Readings](/class401/class401-prep-engineering.md)
 
+#### [PREP Data Structures and Algorithms](/class401/class401-prep-dsa.md)
+
 #### [Class 401-01 Reading Notes](/class401/class401-01.md)
 
 #### [Class 401-02 Reading Notes](/class401/class401-02.md)
